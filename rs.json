@@ -2,9 +2,9 @@
 	"code": 200,
 	"message": "success!",
 	"data": {
-		"fName": "Dan",
-		"mName": "D",
-		"lName": "Rojer",
+		"firstName": "Dan",
+		"middleName": "D",
+		"lastName": "Rojer",
 		"suffix": "",
 		"mobileNumber": "09123456789",
 		"address": "makati",
