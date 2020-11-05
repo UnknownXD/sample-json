@@ -1,4 +1,14 @@
 {
 	"code": 200,
- 	"message": "success!
+	"message": "success!",
+	"data": {
+		"fName": "Dan",
+		"mName": "D",
+		"lName": "Rojer",
+		"suffix": "",
+		"mobileNumber": "09123456789",
+		"address": "makati",
+		"branch": "Master",
+		"amount": 100
+	}
 }
